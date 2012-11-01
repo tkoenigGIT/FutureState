@@ -4,7 +4,7 @@ FutureState - CDIY Front-End Guidelines Document
 Performance Testing Guidance for Web Applications
 -------------------------------------------------
 
-To Read: [Performance Testing Guidance for Web Applications](http://example.com/ "Performance Testing Guidance for Web Applications")
+To Read: [Performance Testing Guidance for Web Applications](http://perftestingguide.codeplex.com/downloads/get/17955 "Performance Testing Guidance for Web Applications")
 
 [Complete List of Web Performance Best Practices and Rules](http://developer.yahoo.com/performance/rules.html "Complete Rule")
 
