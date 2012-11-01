@@ -8,7 +8,7 @@ To Read: [Performance Testing Guidance for Web Applications](http://example.com/
 
 YSlow: [Web Performance Best Practices and Rules](http://developer.yahoo.com/yslow/ "YSlow")
 
-Top 25 (as per Yahoo's Web Performance Best Practices and Rules:
+Top 25 (as per Yahoo!'s Exceptional Performance team)
 
     Minimize HTTP Requests
     Use a Content Delivery Network
