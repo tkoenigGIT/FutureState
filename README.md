@@ -1,4 +1,4 @@
-FutureState
+FutureState - CDIY Front-End Guidelines Document
 ===========
 
 Performance Testing Guidance for Web Applications
@@ -15,4 +15,5 @@ YSlow gives you:
     Performance report card
     HTTP/HTML summary
     List of components in the page
-    Tools including JSLint CDIY Front-End Document
+    Tools including JSLint 
+    
