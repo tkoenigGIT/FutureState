@@ -36,9 +36,18 @@ Top 23 which can be tested with YSlow (as per Yahoo!'s Exceptional Performance t
     Do Not Scale Images in HTML
     Make favicon.ico Small and Cacheable
     
-Firebug Extensions for Firefox:
+Yahoo's Firebug Extensions for Firefox:
 
 YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages. YSlow is a Firefox add-on integrated with the Firebug web development tool. YSlow grades web page based on one of three predefined ruleset or a user-defined ruleset. It offers suggestions for improving the page's performance, summarizes the page's components, displays statistics about the page, and provides tools for performance analysis, including Smush.it™ and JSLint.
 
+
+Google's Web Performance Best Practices
+
+    Optimizing caching — keeping your application's data and logic off the network altogether
+    Minimizing round-trip times — reducing the number of serial request-response cycles
+    Minimizing request overhead — reducing upload size
+    Minimizing payload size — reducing the size of responses, downloads, and cached pages
+    Optimizing browser rendering — improving the browser's layout of a page
+    Optimizing for mobileNew! — tuning a site for the characteristics of mobile networks and mobile devices
 
     
