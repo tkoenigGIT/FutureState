@@ -14,29 +14,28 @@ Google: [Web Performance Best Practices](https://developers.google.com/speed/doc
 
 Top 23 which can be tested with YSlow (as per Yahoo!'s Exceptional Performance team)
 
-    Minimize HTTP Requests
-    Use a Content Delivery Network
-    Avoid empty src or href
-    Add an Expires or a Cache-Control Header
-    Gzip Components
-    Put StyleSheets at the Top
-    Put Scripts at the Bottom
-    Avoid CSS Expressions
-    Make JavaScript and CSS External
-    Reduce DNS Lookups
-    Minify JavaScript and CSS
-    Avoid Redirects
-    Remove Duplicate Scripts
-    Configure ETags
-    Make AJAX Cacheable
-    Use GET for AJAX Requests
-    Reduce the Number of DOM Elements
-    No 404s
-    Reduce Cookie Size
-    Use Cookie-Free Domains for Components
-    Avoid Filters
-    Do Not Scale Images in HTML
-    Make favicon.ico Small and Cacheable
+* Minimize HTTP Requests
+* Avoid empty src or href
+* Add an Expires or a Cache-Control Header
+* Gzip Components
+* Put StyleSheets at the Top
+* Put Scripts at the Bottom
+* Avoid CSS Expressions
+* Make JavaScript and CSS External
+* Reduce DNS Lookups
+* Minify JavaScript and CSS
+* Avoid Redirects
+* Remove Duplicate Scripts
+* Configure ETags
+* Make AJAX Cacheable
+* Use GET for AJAX Requests
+* Reduce the Number of DOM Elements
+* No 404s
+* Reduce Cookie Size
+* Use Cookie-Free Domains for Components
+* Avoid Filters
+* Do Not Scale Images in HTML
+* Make favicon.ico Small and Cacheable
     
 Yahoo's Firebug Extensions for Firefox:
 
@@ -46,11 +45,11 @@ YSlow irebug Extension: [Web Performance Best Practices and Rules](http://develo
 
 Google's Web Performance Best Practices
 
-    Optimizing caching — keeping your application's data and logic off the network altogether
-    Minimizing round-trip times — reducing the number of serial request-response cycles
-    Minimizing request overhead — reducing upload size
-    Minimizing payload size — reducing the size of responses, downloads, and cached pages
-    Optimizing browser rendering — improving the browser's layout of a page
-    Optimizing for mobileNew! — tuning a site for the characteristics of mobile networks and mobile devices
+* Optimizing caching — keeping your application's data and logic off the network altogether
+* Minimizing round-trip times — reducing the number of serial request-response cycles
+* Minimizing request overhead — reducing upload size
+* Minimizing payload size — reducing the size of responses, downloads, and cached pages
+* Optimizing browser rendering — improving the browser's layout of a page
+* Optimizing for mobile — tuning a site for the characteristics of mobile networks and mobile devices
 
     
