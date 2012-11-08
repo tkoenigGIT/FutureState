@@ -52,4 +52,4 @@ Google's Web Performance Best Practices
 * Optimizing browser rendering — improving the browser's layout of a page
 * Optimizing for mobile — tuning a site for the characteristics of mobile networks and mobile devices
 
-Validate document - [W3C Markup Validation Service](http://validator.w3.org "W3C")
+Validate Document with minimal errors - [W3C Markup Validation Service](http://validator.w3.org "W3C")
