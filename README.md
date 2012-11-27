@@ -1,4 +1,4 @@
-FutureState - CDIY Front-End Guidelines Document
+CDIY Front-End Guidelines
 ===========
 
 Performance Testing Guidance for Web Applications
