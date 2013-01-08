@@ -10,7 +10,7 @@ Yahoo: [Complete List of Web Performance Best Practices and Rules](http://develo
 
 Google: [Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro "Rules Introduction")
 
-
+http://webdevchecklist.com/
 
 Top 23 which can be tested with YSlow (as per Yahoo!'s Exceptional Performance team)
 
