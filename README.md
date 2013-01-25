@@ -78,7 +78,7 @@ Remember: this document is not going to apply absolutely to every situation; it 
 guide to encourage discussion in offices and workgroups to develop file-naming practices that work 
 for best in those specific environments.
 
-**2. Image Compression for Web Delivery** 
+**2. Image Compression for Web Delivery**  
 
 We should look into Content Delivery Networks for serving up our files.
 
