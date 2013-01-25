@@ -57,7 +57,7 @@ Validate Document with minimal errors - [W3C Markup Validation Service](http://v
 Stanley Black & Decker Website Contractors Guidelines 
 -----------------------------------------------------
 
-**File Naming Conventions**
+1. **File Naming Conventions**
 
 Rule #1: Avoid using special characters in a file name. \ / : * ? “ < > | [ ] & $ , .  
 Rule #2: Use underscores instead of periods or spaces.  
