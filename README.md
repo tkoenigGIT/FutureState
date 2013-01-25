@@ -85,4 +85,6 @@ We should look into Content Delivery Networks for serving up our files.
 For site furnishings, which tend to be computer-generated and will be cached for re-use between pages, tend towards png; For site content, which will often be page-specific and likely large and complex enough to mask lossy compression, tend towards jpg.
 PNG files should be run everything PNGCrush -- otherwise they won't get displayed with the colors you expect in every browser and the overall quality of your design will be diminished.
 
- **3. Commenting Code** Refer to - [Successful Strategies For Commenting Code](http://www.particletree.com/features/successful-strategies-for-commenting-code/ "Successful Strategies For Commenting Code")
+ **3. Commenting Code** 
+
+ Refer to - [Successful Strategies For Commenting Code](http://www.particletree.com/features/successful-strategies-for-commenting-code/ "Successful Strategies For Commenting Code")
