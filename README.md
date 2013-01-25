@@ -58,6 +58,10 @@ Stanley Black & Decker Website Contractors Guidelines
 -----------------------------------------------------
 
  **1. File Naming Conventions**
+ 
+Our team tends to use Camel case for naming files.
+The first letter of the filename is lowercase and the first letter of each subsequent concatenated word is capitalized. 
+For example: backColor
 
 Rule #1: Avoid using special characters in a file name. \ / : * ? “ < > | [ ] & $ , .  
 Rule #2: Use underscores instead of periods or spaces.  
@@ -65,7 +69,7 @@ Rule #3: Err on the side of brevity. Generally about 25 characters is a sufficie
 naming a record.   
 Rule #4: The file name should include all necessary descriptive information independent of where it 
 is stored.   
-Rule #5: Be consistent.
+Rule #5: Be consistent and use common sense.
 
 *There will be exceptions.*  
 One notable consideration is our PIM library and how the files are currently named there. 
