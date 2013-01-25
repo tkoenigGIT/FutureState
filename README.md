@@ -62,8 +62,9 @@ Stanley Black & Decker Website Contractors Guidelines
 Rule #1: Avoid using special characters in a file name. \ / : * ? “ < > | [ ] & $ , .  
 Rule #2: Use underscores instead of periods or spaces.  
 Rule #3: Err on the side of brevity. Generally about 25 characters is a sufficient length to capture enough descriptive information for 
-naming a record. 
-Rule #3: Be consistent.
+naming a record.
+
+Rule #4: Be consistent.
 
 There will be exceptions.  
 One notable consideration is our PIM library and how the files are currently named there. 
