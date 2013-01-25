@@ -72,7 +72,7 @@ is stored.
 Rule #5: Be consistent and use common sense.
 
 *There will be exceptions.*  
-One notable consideration is our PIM library and how the files are currently named there. 
+One notable consideration is our PIM image library and how the files are currently named there. 
 
 Remember: this document is not going to apply absolutely to every situation; it should be used as a 
 guide to encourage discussion in offices and workgroups to develop file-naming practices that work 
