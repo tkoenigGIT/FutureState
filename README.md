@@ -83,4 +83,4 @@ for best in those specific environments.
 We should look into Content Delivery Networks for serving up our files.
 
 For site furnishings, which tend to be computer-generated and will be cached for re-use between pages, tend towards png; For site content, which will often be page-specific and likely large and complex enough to mask lossy compression, tend towards jpg.
-With specific reference to switching to png where you decide it is appropriate, run everything through PNGCrush as a matter of course -- otherwise they won't get displayed with the colours you expect in every browser and the overall quality of your design will be diminished.
+PNG files should be run everything PNGCrush -- otherwise they won't get displayed with the colors you expect in every browser and the overall quality of your design will be diminished.
