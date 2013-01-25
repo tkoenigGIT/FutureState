@@ -65,7 +65,7 @@ Rule #3: Err on the side of brevity. Generally about 25 characters is a sufficie
 naming a record.   
 Rule #4: Be consistent.
 
-There will be exceptions.  
+*There will be exceptions.*  
 One notable consideration is our PIM library and how the files are currently named there. 
 
 Remember: this document is not going to apply absolutely to every situation; it should be used as a 
