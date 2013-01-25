@@ -56,3 +56,5 @@ Validate Document with minimal errors - [W3C Markup Validation Service](http://v
 
 Stanley Black & Decker Website Contractors Guidelines 
 -----------------------------------------------------
+
+**bold**
