@@ -64,7 +64,7 @@ Rule #2: Use underscores instead of periods or spaces.
 Rule #3: Err on the side of brevity. Generally about 25 characters is a sufficient length to capture enough descriptive information for 
 naming a record.   
 Rule #4: The file name should include all necessary descriptive information independent of where it 
-is stored:  
+is stored.   
 Rule #5: Be consistent.
 
 *There will be exceptions.*  
@@ -73,3 +73,5 @@ One notable consideration is our PIM library and how the files are currently nam
 Remember: this document is not going to apply absolutely to every situation; it should be used as a 
 guide to encourage discussion in offices and workgroups to develop file-naming practices that work 
 for best in those specific environments.
+
+2. **Image Compression for Web Delivery**
