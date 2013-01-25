@@ -53,3 +53,6 @@ Google's Web Performance Best Practices
 * Optimizing for mobile — tuning a site for the characteristics of mobile networks and mobile devices
 
 Validate Document with minimal errors - [W3C Markup Validation Service](http://validator.w3.org "W3C")
+
+Stanley Black & Decker Website Contractors Guidelines 
+-----------------------------------------------------
