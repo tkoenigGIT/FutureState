@@ -12,48 +12,6 @@ Google: [Web Performance Best Practices](https://developers.google.com/speed/doc
 
 http://webdevchecklist.com/
 
-Top 23 which can be tested with YSlow (as per Yahoo!'s Exceptional Performance team)
-
-* Minimize HTTP Requests
-* Avoid empty src or href
-* Add an Expires or a Cache-Control Header
-* Gzip Components
-* Put StyleSheets at the Top
-* Put Scripts at the Bottom
-* Avoid CSS Expressions
-* Make JavaScript and CSS External
-* Reduce DNS Lookups
-* Minify JavaScript and CSS
-* Avoid Redirects
-* Remove Duplicate Scripts
-* Configure ETags
-* Make AJAX Cacheable
-* Use GET for AJAX Requests
-* Reduce the Number of DOM Elements
-* No 404s
-* Reduce Cookie Size
-* Use Cookie-Free Domains for Components
-* Avoid Filters
-* Do Not Scale Images in HTML
-* Make favicon.ico Small and Cacheable
-    
-Yahoo's Firebug Extensions for Firefox:
-
-YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages. YSlow is a Firefox add-on integrated with the Firebug web development tool. YSlow grades web page based on one of three predefined ruleset or a user-defined ruleset. It offers suggestions for improving the page's performance, summarizes the page's components, displays statistics about the page, and provides tools for performance analysis, including Smush.it™ and JSLint.
-
-YSlow Firebug Extension: [Web Performance Best Practices and Rules](http://developer.yahoo.com/yslow/ "YSlow")
-
-Google's Web Performance Best Practices
-
-* Optimizing caching — keeping your application's data and logic off the network altogether
-* Minimizing round-trip times — reducing the number of serial request-response cycles
-* Minimizing request overhead — reducing upload size
-* Minimizing payload size — reducing the size of responses, downloads, and cached pages
-* Optimizing browser rendering — improving the browser's layout of a page
-* Optimizing for mobile — tuning a site for the characteristics of mobile networks and mobile devices
-
-Validate Document with minimal errors - [W3C Markup Validation Service](http://validator.w3.org "W3C")
-
 Stanley Black & Decker Website Contractors Guidelines 
 -----------------------------------------------------
 
@@ -85,6 +43,53 @@ We should look into Content Delivery Networks for serving up our files.
 For site furnishings, which tend to be computer-generated and will be cached for re-use between pages, tend towards png; For site content, which will often be page-specific and likely large and complex enough to mask lossy compression, tend towards jpg.  
 PNG files should be run everything PNGCrush -- otherwise they won't get displayed with the colors you expect in every browser and the overall quality of your design will be diminished.
 
- **3. Commenting Code** 
+**3. Commenting Code** 
 
  Refer to - [Successful Strategies For Commenting Code](http://www.particletree.com/features/successful-strategies-for-commenting-code/ "Successful Strategies For Commenting Code")
+
+
+**4.Performance Testing Guidelines**
+
+Top 23 which can be tested with YSlow (as per Yahoo!'s Exceptional Performance team)
+
+* Minimize HTTP Requests
+* Avoid empty src or href
+* Add an Expires or a Cache-Control Header
+* Gzip Components
+* Put StyleSheets at the Top
+* Put Scripts at the Bottom
+* Avoid CSS Expressions
+* Make JavaScript and CSS External
+* Reduce DNS Lookups
+* Minify JavaScript and CSS
+* Avoid Redirects
+* Remove Duplicate Scripts
+* Configure ETags
+* Make AJAX Cacheable
+* Use GET for AJAX Requests
+* Reduce the Number of DOM Elements
+* No 404s
+* Reduce Cookie Size
+* Use Cookie-Free Domains for Components
+* Avoid Filters
+* Do Not Scale Images in HTML
+* Make favicon.ico Small and Cacheable
+    
+Yahoo's Firebug Extensions for Firefox:
+
+YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages. YSlow is a Firefox add-on integrated with the Firebug web development tool. YSlow grades web page based on one of three predefined ruleset or a user-defined ruleset. It offers suggestions for improving the page's performance, summarizes the page's components, displays statistics about the page, and provides tools for performance analysis, including Smush.it™ and JSLint.
+
+YSlow Firebug Extension: [Web Performance Best Practices and Rules](http://developer.yahoo.com/yslow/ "YSlow")
+ 
+**5. General Front-End Guidelines**
+
+Google's Web Performance Best Practices
+
+* Optimizing caching — keeping your application's data and logic off the network altogether
+* Minimizing round-trip times — reducing the number of serial request-response cycles
+* Minimizing request overhead — reducing upload size
+* Minimizing payload size — reducing the size of responses, downloads, and cached pages
+* Optimizing browser rendering — improving the browser's layout of a page
+* Optimizing for mobile — tuning a site for the characteristics of mobile networks and mobile devices
+
+Validate Document with minimal errors - [W3C Markup Validation Service](http://validator.w3.org "W3C")
