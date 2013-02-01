@@ -48,7 +48,7 @@ PNG files should be run everything PNGCrush -- otherwise they won't get displaye
  Refer to - [Successful Strategies For Commenting Code](http://www.particletree.com/features/successful-strategies-for-commenting-code/ "Successful Strategies For Commenting Code")
 
 
-**4.Performance Testing Guidelines**
+**4. Performance Testing Guidelines**
 
 Top 23 which can be tested with YSlow (as per Yahoo!'s Exceptional Performance team)
 
