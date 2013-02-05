@@ -12,7 +12,7 @@ Google: [Web Performance Best Practices](https://developers.google.com/speed/doc
 
 http://webdevchecklist.com/
 
-Stanley Black & Decker Website Contractors Guidelines 
+Stanley Black & Decker Website Guidelines for Contractors.
 -----------------------------------------------------
 
 **1. File Naming Conventions**
