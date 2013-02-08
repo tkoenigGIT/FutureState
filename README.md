@@ -91,3 +91,19 @@ Google's Web Performance Best Practices
 * Optimizing for mobile — tuning a site for the characteristics of mobile networks and mobile devices
 
 Validate Document with minimal errors - [W3C Markup Validation Service](http://validator.w3.org "W3C")
+
+**5. SEO Guidelines**
+
+* Indicate page titles by using title tags
+* Accurately describe the page's content
+* Create unique title tags for each page
+* Use brief, but descriptive titles
+* Make use of the "description" meta tag
+* Accurately summarize the page's content
+* Use unique descriptions for each page
+* Simple-to-understand URLs will convey 
+content information easily
+* Use brief, but descriptive filenames and alt text
+* Supply alt text when using images as links
+* Supply an Image Sitemap file
+* Use heading tags appropriately
