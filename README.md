@@ -111,9 +111,10 @@ content information easily
 * Use heading tags appropriately
 
 **7. Cross Browser Compliance Guidelines, Javascript Plugins Guidelines**
-* Use twitter bootstrap to 
-
+* Use twitter bootstrap to create.
+* 
+Which JavaScript Recipe Is Right For You? - [Which JavaScript Recipe Is Right For You?](http://coding.smashingmagazine.com/2012/12/14/which-javascript-recipe-is-right-for-you/#more-120645 "Which JavaScript Recipe Is Right For You?")
 
 **8. W3C Validation Guidelines, Responsive Design/Markup Guidelines**
 
-Responsive Design on a Budget - [Responsive Design on a Budget](http://clearleft.com/thinks/responsivedesignonabudget/ "http://clearleft.com/thinks/responsivedesignonabudget/")
+Responsive Design on a Budget - [Responsive Design on a Budget](http://clearleft.com/thinks/responsivedesignonabudget/ "Responsive Design on a Budget")
