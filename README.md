@@ -15,6 +15,8 @@ http://webdevchecklist.com/
 Stanley Black & Decker Website Guidelines for Contractors.
 -----------------------------------------------------
 
+This is a living document and will be updated often with new requirements as new best practices and technologies emerge.
+
 **1. File Naming Conventions**
  
 Our team tends to use Camel case for naming files.
@@ -109,6 +111,9 @@ content information easily
 * Use heading tags appropriately
 
 **7. Cross Browser Compliance Guidelines, Javascript Plugins Guidelines**
+* Use twitter bootstrap to 
 
 
 **8. W3C Validation Guidelines, Responsive Design/Markup Guidelines**
+
+Responsive Design on a Budget - [Responsive Design on a Budget](http://clearleft.com/thinks/responsivedesignonabudget/ "http://clearleft.com/thinks/responsivedesignonabudget/")
