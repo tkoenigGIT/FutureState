@@ -92,7 +92,7 @@ Google's Web Performance Best Practices
 
 Validate Document with minimal errors - [W3C Markup Validation Service](http://validator.w3.org "W3C")
 
-**5. SEO Guidelines**
+**6. SEO Guidelines**
 
 * Indicate page titles by using title tags
 * Accurately describe the page's content
@@ -107,3 +107,8 @@ content information easily
 * Supply alt text when using images as links
 * Supply an Image Sitemap file
 * Use heading tags appropriately
+
+**7. Cross Browser Compliance Guidelines, Javascript Plugins Guidelines**
+
+
+**8. W3C Validation Guidelines, Responsive Design/Markup Guidelines**
