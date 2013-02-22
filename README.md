@@ -111,8 +111,8 @@ content information easily
 * Use heading tags appropriately
 
 **7. Cross Browser Compliance Guidelines, Javascript Plugins Guidelines**
-* Use twitter bootstrap to create a sleek, intuitive, and powerful front-end framework for faster and easier web development and better cross-browser compliance.
-* 
+* Utilize twitter bootstrap to create a sleek, intuitive, and powerful front-end framework for faster and easier web development and better cross-browser compliance.
+
 Which JavaScript Recipe Is Right For You? - [Which JavaScript Recipe Is Right For You?](http://coding.smashingmagazine.com/2012/12/14/which-javascript-recipe-is-right-for-you/#more-120645 "Which JavaScript Recipe Is Right For You?")
 
 **8. W3C Validation Guidelines, Responsive Design/Markup Guidelines**
