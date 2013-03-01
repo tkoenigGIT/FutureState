@@ -6,7 +6,7 @@ Stanley Black & Decker Website Guidelines for Contractors.
 
 This is a living document and will be updated often with new requirements as new best practices and technologies emerge.
 
-**1. File Naming Conventions**
+**1a. File Naming Conventions**
  
 Our team tends to use Camel case for naming files.
 The first letter of the filename is lowercase and the first letter of each subsequent concatenated word is capitalized. 
@@ -20,16 +20,18 @@ Rule #4: The file name should include all necessary descriptive information inde
 is stored.   
 Rule #5: Be consistent and use common sense.
 
-Folder Structure: 
-Since we will be using Sitecore as our WCMS I have found a few links that outline some "best practices" from current Sitecore users that run multiple sites. 
-[Sitecore: Multiple Site Support Done Right - Folder Structure](http://xpressivecode.com/2012/1/3/sitecore-multiple-site-support-done-right-folder-structure.aspx "Sitecore: Multiple Site Support Done Right - Folder Structure")
-
 *There will be exceptions.*  
 One notable consideration is our PIM image library and how the files are currently named there. 
 
 Remember: this document is not going to apply absolutely to every situation; it should be used as a 
 guide to encourage discussion in offices and workgroups to develop file-naming practices that work 
 for best in those specific environments.
+
+**1b. Folder Structure:**
+Since we will be using Sitecore as our WCMS I have found a few links that outline some "best practices" from current Sitecore users that run multiple sites. 
+[Sitecore: Multiple Site Support Done Right - Folder Structure](http://xpressivecode.com/2012/1/3/sitecore-multiple-site-support-done-right-folder-structure.aspx "Sitecore: Multiple Site Support Done Right - Folder Structure")
+
+
 
 **2. Image Compression for Web Delivery**  
 
