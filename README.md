@@ -1,17 +1,6 @@
 CDIY Front-End Guidelines
 ===========
 
-Performance Testing Guidance for Web Applications
--------------------------------------------------
-
-Microsoft: [Performance Testing Guidance for Web Applications](http://perftestingguide.codeplex.com/downloads/get/17955 "Performance Testing Guidance for Web Applications") (To Read) 
-
-Yahoo: [Complete List of Web Performance Best Practices and Rules](http://developer.yahoo.com/performance/rules.html "Complete List of Rules")
-
-Google: [Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro "Rules Introduction")
-
-http://webdevchecklist.com/
-
 Stanley Black & Decker Website Guidelines for Contractors.
 -----------------------------------------------------
 
@@ -120,3 +109,17 @@ Deciding On Which JavaScript Recipe Is Right For You? - [Which JavaScript Recipe
 Validate Document with minimal errors - [W3C Markup Validation Service](http://validator.w3.org "W3C")
 
 Responsive Design on a Budget - [Responsive Design on a Budget](http://clearleft.com/thinks/responsivedesignonabudget/ "Responsive Design on a Budget")
+
+-------------------------------------------------
+Appendix:
+
+Performance Testing Guidance for Web Applications
+-------------------------------------------------
+
+Microsoft: [Performance Testing Guidance for Web Applications](http://perftestingguide.codeplex.com/downloads/get/17955 "Performance Testing Guidance for Web Applications") (To Read) 
+
+Yahoo: [Complete List of Web Performance Best Practices and Rules](http://developer.yahoo.com/performance/rules.html "Complete List of Rules")
+
+Google: [Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro "Rules Introduction")
+
+http://webdevchecklist.com/
