@@ -28,6 +28,7 @@ guide to encourage discussion in offices and workgroups to develop file-naming p
 for best in those specific environments.
 
 **1b. Folder Structure:**
+
 Since we will be using Sitecore as our WCMS I have found a few links that outline some "best practices" from current Sitecore users that run multiple sites. 
 [Sitecore: Multiple Site Support Done Right - Folder Structure](http://xpressivecode.com/2012/1/3/sitecore-multiple-site-support-done-right-folder-structure.aspx "Sitecore: Multiple Site Support Done Right - Folder Structure")
 
