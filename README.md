@@ -111,9 +111,7 @@ Validate Document with minimal errors - [W3C Markup Validation Service](http://v
 Responsive Design on a Budget - [Responsive Design on a Budget](http://clearleft.com/thinks/responsivedesignonabudget/ "Responsive Design on a Budget")
 
 -------------------------------------------------
-Appendix:
-
-Performance Testing Guidance for Web Applications
+Appendix: Performance Testing Guidance for Web Applications
 -------------------------------------------------
 
 Microsoft: [Performance Testing Guidance for Web Applications](http://perftestingguide.codeplex.com/downloads/get/17955 "Performance Testing Guidance for Web Applications") (To Read) 
