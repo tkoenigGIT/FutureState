@@ -20,6 +20,8 @@ Rule #4: The file name should include all necessary descriptive information inde
 is stored.   
 Rule #5: Be consistent and use common sense.
 
+Folder Structure: Need To Complete
+
 *There will be exceptions.*  
 One notable consideration is our PIM image library and how the files are currently named there. 
 
