@@ -20,7 +20,9 @@ Rule #4: The file name should include all necessary descriptive information inde
 is stored.   
 Rule #5: Be consistent and use common sense.
 
-Folder Structure: Need To Complete
+Folder Structure: 
+Since we will be using Sitecore as our WCMS I have found a few links that outline some "best practices" from current Sitecore users that run multiple sites. 
+[Sitecore: Multiple Site Support Done Right - Folder Structure](http://xpressivecode.com/2012/1/3/sitecore-multiple-site-support-done-right-folder-structure.aspx "Sitecore: Multiple Site Support Done Right - Folder Structure")
 
 *There will be exceptions.*  
 One notable consideration is our PIM image library and how the files are currently named there. 
@@ -105,6 +107,8 @@ content information easily
 * Utilize [Twitter Bootstrap](http://twitter.github.com/bootstrap/index.html "Twitter Bootstrap") to create a sleek, intuitive, and powerful front-end framework for faster and easier web development and better cross-browser compliance.
 
 Deciding On Which JavaScript Recipe Is Right For You? - [Which JavaScript Recipe Is Right For You?](http://coding.smashingmagazine.com/2012/12/14/which-javascript-recipe-is-right-for-you/#more-120645 "Which JavaScript Recipe Is Right For You?")
+
+Don't include more than one framework unless you absolutely have to.
 
 **8. W3C Validation Guidelines, Responsive Design/Markup Guidelines**
 
