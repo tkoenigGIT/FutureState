@@ -37,7 +37,15 @@ Since we will be using Sitecore as our WCMS I have found a few links that outlin
 **2. Image Compression for Web Delivery**
 
 For site furnishings, which tend to be computer-generated and will be cached for re-use between pages, tend towards png; For site content, which will often be page-specific and likely large and complex enough to mask lossy compression, tend towards jpg.  
-PNG files should be run through PNGCrush to acheive the correct colors you would expect for your design.
+PNG files should be run through PNGCrush to acheive the correct colors you would expect for your design. In general, a site optimizing its content will want to crush all of its PNG images (by using batch-mode conversion), and pngcrush includes two options to support batch conversion. The first allows one to specify a new extension for converted images, which will be created in the same directory as the original:
+
+    pngcrush -e -crushed.png foo.png foo2.png foo3.png foo4.png
+
+This example crushes four images, foo.png through foo4.png, giving them the extension -crushed.png; thus the output names are foo-crushed.png, foo2-crushed.png, and so on. Such an approach is handy for casual use, since an alphabetical directory listing will (usually) list the original and crushed versions in pairs, allowing quick, after-the-fact inspection of the changes in file sizes. But because it involves renaming files, this is probably not the preferred approach for a web site. The alternative is pngcrush's -d option, which allows one to specify an output directory in which to place the crushed images:
+
+    pngcrush -d crushed_images foo.png foo2.png foo3.png foo4.png
+
+This example crushes the same four images, but leaves their filenames unchanged. The new versions will go in the crushed_images subdirectory, which will be created if it does not already exist.
 
 **3. Commenting Code** 
 
