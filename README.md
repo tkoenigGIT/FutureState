@@ -55,6 +55,33 @@ This example crushes the same four images, but leaves their filenames unchanged.
 
  Refer to - [Successful Strategies For Commenting Code](http://www.particletree.com/features/successful-strategies-for-commenting-code/ "Successful Strategies For Commenting Code")
 
+Types of Comments
+
+Code Commenting - This refers to writing descriptive variable names that are self explanatory. This is a minimalist form of commenting, and looks like this:
+
+function addUserToDatabase(userName, userAge)
+
+Without any additional information, you can tell that the function will add a user’s name and age to a database. A common implementation of this is called Hungarian Notation.
+
+Inline Commenting - Specifically, these types of comments come at the end of a line of code, but we can also use this term to refer to comments inside of a function as well. This is the most basic form of commenting.
+
+function calculateHitPoints(cUser) {
+    var nStrength = document.getElementById("enemyStrength").value; // grab current enemy strength    // subtract user size : small = 1, medium = 2, large = 3
+    var nDamage = (nStrength * 3) ï¿½ cUser.nSize;
+    return cUser.nCurrentHitPoints ï¿½ nDamage;
+}
+
+Function Commenting - This type of commenting is found on the lines above a function, and reveals all of the necessary details about that function. This includes parameters, return values, and any logic quirks or decisions that were made:
+
+/*
+ * Summary:      Calculate hitpoints after attack using formula
+ *               new = current ï¿½ ((enemyStrength*3) ï¿½ size)
+ * Parameters:   cUser ï¿½ object containing hero's stats
+ * Return:       Boolean indicating life or death
+ */
+function calculateHitPoints(cUser) {
+    ï¿½
+} // end calculateHitPoints
 
 **4. Performance Testing Guidelines**
 
