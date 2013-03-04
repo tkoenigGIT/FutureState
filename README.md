@@ -57,14 +57,14 @@ This example crushes the same four images, but leaves their filenames unchanged.
 
 Types of Comments
 
-** Code Commenting:** 
+**Code Commenting:** 
 Utilize descriptive variable names that are self explanatory. This is a minimalist form of commenting, and looks like this:
 
 function addUserToDatabase(userName, userAge)
 
 Without any additional information, you can tell that the function will add a user’s name and age to a database.
 
-** Inline Commenting:** 
+**Inline Commenting:** 
 Specifically, these types of comments come at the end of a line of code, but we can also use this term to refer to comments inside of a function as well. This is the most basic form of commenting.
 
 function calculateHitPoints(cUser) {
@@ -73,7 +73,7 @@ function calculateHitPoints(cUser) {
     return cUser.nCurrentHitPoints nDamage;
 }
 
-** Function Commenting:** 
+**Function Commenting:** 
 This type of commenting is found on the lines above a function, and reveals all of the necessary details about that function. This includes parameters, return values, and any logic quirks or decisions that were made:
 
 /*
