@@ -34,9 +34,7 @@ Since we will be using Sitecore as our WCMS I have found a few links that outlin
 
 
 
-**2. Image Compression for Web Delivery**  
-
-We should look into Content Delivery Networks for serving up our files.
+**2. Image Compression for Web Delivery**
 
 For site furnishings, which tend to be computer-generated and will be cached for re-use between pages, tend towards png; For site content, which will often be page-specific and likely large and complex enough to mask lossy compression, tend towards jpg.  
 PNG files should be run everything PNGCrush -- otherwise they won't get displayed with the colors you expect in every browser and the overall quality of your design will be diminished.
@@ -118,6 +116,9 @@ Don't include more than one framework unless you absolutely have to.
 Validate Document with minimal errors - [W3C Markup Validation Service](http://validator.w3.org "W3C")
 
 Responsive Design on a Budget - [Responsive Design on a Budget](http://clearleft.com/thinks/responsivedesignonabudget/ "Responsive Design on a Budget")
+
+**9. Boilerplate Adoption Guidelines, Mobile Compliance (Video, HTML, etc.)**
+
 
 -------------------------------------------------
 Appendix: Performance Testing Guidance for Web Applications
