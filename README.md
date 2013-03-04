@@ -89,7 +89,7 @@ function calculateHitPoints(cUser) {
 
 } // end calculateHitPoints
 
-*Class/Page Commenting:*
+**Class/Page Commenting:**
 
 Comments that refer to an entire page or top level object fall into this category. Usually these comments include a broad overview, last edit date, associated files, author, and contact information. Additionally, this may include a general footer at the bottom of every page. Kevin wrote some great templates for building these types of comments in his feature on using XHTML templates.
 
