@@ -40,6 +40,7 @@ Utilize [PNGCrush](http://sourceforge.net/projects/pmt/files/pngcrush/1.7.51/ "P
 
 Utilize [JPEGtran](http://jpegclub.org/ "JPEGtran") for JPG images.
 
+PNGCrush:
 For site images, which tend to be computer-generated and will be cached for re-use between pages, tend towards png; For site content, which will often be page-specific and likely large and complex enough to mask lossy compression, tend towards jpg.  
 PNG files should be run through PNGCrush to acheive the correct compression and colors you would expect for your design . In general, a site optimizing its content will want to crush all of its PNG images (by using batch-mode conversion), and pngcrush includes two options to support batch conversion. The first allows one to specify a new extension for converted images, which will be created in the same directory as the original:
 
