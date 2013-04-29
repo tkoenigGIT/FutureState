@@ -172,7 +172,9 @@ Responsive Design on a Budget - [Responsive Design on a Budget](http://clearleft
 
 **9. Boilerplate Adoption Guidelines, Mobile Compliance (Video, HTML, etc.)**
 
+**10. Database Format Guidlines.**
 
+Any database should be delivered to our team in DDL format.  Delivering the data file itself, or any backup of the database would require approval and time allocated in the project schedule to work with the DBA team at SBD.
 -------------------------------------------------
 Appendix: Performance Testing Guidance for Web Applications
 -------------------------------------------------
