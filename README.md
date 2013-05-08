@@ -178,15 +178,6 @@ Any database should be delivered to our team in DDL format.  Delivering the data
 
 Appendix: Performance Testing Guidance for Web Applications
 
-Microsoft: [Performance Testing Guidance for Web Applications](http://perftestingguide.codeplex.com/downloads/get/17955 "Performance Testing Guidance for Web Applications") (To Read) 
-
-Yahoo: [Complete List of Web Performance Best Practices and Rules](http://developer.yahoo.com/performance/rules.html "Complete List of Rules")
-
-Google: [Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro "Rules Introduction")
-
-http://webdevchecklist.com/
-
-
 **11. Mobile Development Deliverable Guidlines**
 
 * We need be advised that a Mobile Application has been outsourced by the team.
@@ -205,3 +196,11 @@ http://webdevchecklist.com/
 * Consider Cloud-based development and hosting.
 * Get crash logs in iTunes app. store for our mobile apps.
 
+
+Microsoft: [Performance Testing Guidance for Web Applications](http://perftestingguide.codeplex.com/downloads/get/17955 "Performance Testing Guidance for Web Applications") (To Read) 
+
+Yahoo: [Complete List of Web Performance Best Practices and Rules](http://developer.yahoo.com/performance/rules.html "Complete List of Rules")
+
+Google: [Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro "Rules Introduction")
+
+http://webdevchecklist.com/
