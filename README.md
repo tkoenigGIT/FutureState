@@ -186,3 +186,23 @@ Yahoo: [Complete List of Web Performance Best Practices and Rules](http://develo
 Google: [Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro "Rules Introduction")
 
 http://webdevchecklist.com/
+
+
+**11. Mobile Development Deliverable Guidlines**
+
+* We need be advised that a Mobile Application has been outsourced by the team.
+* Set up group in Salesforce Chatter.
+* Set up project in YouTrack for Bug Tracking.
+* Set up reoccurring meeting for project status updates.
+* GitHub must be used as Source Crontrol.
+* Communication must be centralized.
+* Create a technical architecture diagram for the project. (DNS, servers
+* Create a deployment plan.
+* Set expections upfront. (Database creation and updating timelines, DNS ticket time).
+* Utilize Mobile Application coding standard guidelines, utilize resharper.
+* Project Management deliverables must be gathered at every meeting.
+* UNIT Testing, UAT, use-case test scripts must be used.
+* A development testing procedure must be devised.
+* Consider Cloud-based development and hosting.
+* Get crash logs in iTunes app. store for our mobile apps.
+* 
