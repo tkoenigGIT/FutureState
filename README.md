@@ -205,4 +205,4 @@ http://webdevchecklist.com/
 * A development testing procedure must be devised.
 * Consider Cloud-based development and hosting.
 * Get crash logs in iTunes app. store for our mobile apps.
-* 
+
